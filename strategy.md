@@ -1,6 +1,6 @@
 # ConTree: Market Analysis & Strategic Use Cases
 
-**Author:** Colin (@colygon) — external observer, not affiliated with Nebius
+**Author:** Colin (@opencolin) — external observer, not affiliated with Nebius
 **Date:** 2026-04-16
 **Purpose:** Unsolicited strategic read for the Nebius ConTree team after a day of deep product research. Directional, not prescriptive — the internal team has better data than I do.
 

@@ -2,14 +2,14 @@
 
 A Claude Code [Skill](https://docs.claude.com/en/docs/claude-code/skills) that teaches Claude how to use [ConTree](https://contree.dev) — Nebius's sandboxed container execution platform with Git-like branching — idiomatically and efficiently.
 
-> **Install:** `claude skill install colygon/contree-skill` *(once published)* or clone and drop into `~/.claude/skills/contree/`.
+> **Install:** `claude skill install opencolin/contree-skill` *(once published)* or clone and drop into `~/.claude/skills/contree/`.
 
 ---
 
 # Product Requirements Document
 
 **Product:** ConTree Skill for Claude Code
-**Author:** Colin (@colygon)
+**Author:** Colin (@opencolin)
 **Status:** v0.1 — Alpha, seeking feedback from Nebius ConTree team
 **Last updated:** 2026-04-16
 
@@ -201,7 +201,7 @@ The power-user persona (agent builder) will write Python directly. The SDK secti
 ## 8. Rollout Plan
 
 ### Phase 0: Internal alpha *(now)*
-- [x] v0.1 draft pushed to [github.com/colygon/contree-skill](https://github.com/colygon/contree-skill)
+- [x] v0.1 draft pushed to [github.com/opencolin/contree-skill](https://github.com/opencolin/contree-skill)
 - [x] MCP + SDK integration verified against live ConTree service
 - [ ] 3 hand-crafted test prompts run against skill vs no-skill baseline
 - [ ] Eval viewer review cycle with author
@@ -275,6 +275,6 @@ Apache 2.0, matching Nebius's licensing on the underlying MCP server and SDK.
 
 ## D. Contact
 
-- **Author:** Colin — [@colygon](https://github.com/colygon)
-- **Issues:** [github.com/colygon/contree-skill/issues](https://github.com/colygon/contree-skill/issues)
+- **Author:** Colin — [@opencolin](https://github.com/opencolin)
+- **Issues:** [github.com/opencolin/contree-skill/issues](https://github.com/opencolin/contree-skill/issues)
 - **Nebius PMs:** if you'd like to chat, I'm at `collin@dabl.club`
